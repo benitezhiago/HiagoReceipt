@@ -1,0 +1,156 @@
+
+div.degradefundo {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(297.24deg, #E8EFFC 18.25%, #FFFFFF 91.76%);
+}
+div.alinhando {
+    left: 10%;
+    top: 0%;
+    transform: translate(-10%, -0%);
+}
+div.RECEIPT {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 298px;
+    height: 502px;
+    background-color: #E3004F;
+    box-shadow: 15px 15px 20px rgba(238, 0, 71, 0.2);
+}
+.textos {
+    top: 0px;
+    position: absolute;
+    font-family: "MontSerrat";
+    color: #fff;
+}
+.imagemfundo {
+    position: absolute;
+    bottom: -4px;
+    right: 0px;
+}
+.txt1 {
+    font-size: 33px;
+}
+.txt2 {
+    font-size: 14px;
+    text-align: center;
+}
+
+div.cardapio{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 337px;
+    height: 572px;
+    background: #fff;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.05);
+}
+div.parte1 {
+    position: absolute;
+    margin-top: -450px;
+    width: 337px;
+    height: 60px;
+}
+.textologo {
+    margin-top: -12px;
+    font-family: "MontSerrat";
+    font-size: 14px;
+    color: #55617D;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    align-items: center;
+}
+div.parte2 {
+    position: absolute;
+    margin-top: -100px;
+    width: 337px;
+    height: 200px;
+    
+}
+.opc1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    font-family: "MontSerrat";
+    font-size: 14px;
+    color: #55617D;
+}
+.opc2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    font-family: "MontSerrat";
+    font-size: 14px;
+    color: #55617D;
+}
+.opc3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    font-family: "MontSerrat";
+    font-size: 14px;
+    color: #55617D;
+}
+
+div.parte3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    margin-top: 320px;
+    width: 337px;
+    height: 40px;
+    
+}
+.txt111 {
+    display: flex;
+    font-family: "MontSerrat";
+    font-size: 14px;
+    color: #55617D;
+}
+.txt222 {
+    display: flex;
+    font-family: "MontSerrat";
+    font-size: 34px;
+    color: #55617D;
+}
+div.parte4 {
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 420px;
+    width: 337px;
+    height: 20px;
+    
+}
+div.parte5 {
+    position: absolute;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 470px;
+    width: 337px;
+    height: 20px;
+    
+}
+.txt333 {
+    display: flex;
+    font-family: "MontSerrat";
+    font-size: 14px;
+    color: #8B97B5;
+}
